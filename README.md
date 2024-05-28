@@ -42,8 +42,14 @@ Delete tasks.
 Update tasks.
 Mark tasks as completed.
 
+### Project Link
+
+- GitHub Repository: [https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha](https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha)
+- Live Hosted Version: [https://todo-app-mu-swart.vercel.app/](https://todo-app-mu-swart.vercel.app/)
+
+
 ### Contact
 Rinsha E - [LinkedIn](https://www.linkedin.com/in/rinsha-aisha/) - rinshaaish@gmail.com
 
 
-Project Link: [https://github.com/your_username/todo-list-app](https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha)
+
