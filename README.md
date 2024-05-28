@@ -37,10 +37,10 @@ Follow these instructions to get the project up and running on your local machin
 
 ## Usage
 
-Add new tasks with titles and descriptions.
-Delete tasks.
-Update tasks.
-Mark tasks as completed.
+- Add new tasks with titles and descriptions.
+- Delete tasks.
+- Update tasks.
+- Mark tasks as completed.
 
 ### Project Link
 
