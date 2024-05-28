@@ -44,7 +44,7 @@ Mark tasks as completed.
 
 ### Project Link
 
-- GitHub Repository: [https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha](https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha)
+- GitHub Repository: [https://github.com/rinsha-aish/todo-app/](https://github.com/rinsha-aish/todo-app/)
 - Live Hosted Version: [https://todo-app-mu-swart.vercel.app/](https://todo-app-mu-swart.vercel.app/)
 
 
