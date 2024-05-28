@@ -1,5 +1,6 @@
 # ToDo List Application
-![ToDoApp](https://github.com/rinsha-aish/ZestyBeanzProject-Rinsha/assets/116577884/55629c50-42e2-42c1-9e1c-9b02f59b2a3f)
+
+![ToDoApp](https://github.com/rinsha-aish/todo-app/assets/116577884/b48fd6f2-955b-4d98-8e86-2f4e07782db8)
 
 A simple Todo List application built using React. It allows users to manage their tasks by adding, deleting, updating, and marking tasks as completed.
 
